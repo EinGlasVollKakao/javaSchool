@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/javaSchool.iml" filepath="$PROJECT_DIR$/javaSchool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sortierAlgo/sortierAlgo.iml" filepath="$PROJECT_DIR$/sortierAlgo/sortierAlgo.iml" />
     </modules>
   </component>
 </project>
