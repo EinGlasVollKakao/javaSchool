@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/_01_eigenerSortierAlgo/_01_eigenerSortierAlgo.iml" filepath="$PROJECT_DIR$/_01_eigenerSortierAlgo/_01_eigenerSortierAlgo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_02_baseAlgos/_02_baseAlgos.iml" filepath="$PROJECT_DIR$/_02_baseAlgos/_02_baseAlgos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_03_selectionSort/_03_selectionSort.iml" filepath="$PROJECT_DIR$/_03_selectionSort/_03_selectionSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaSchool.iml" filepath="$PROJECT_DIR$/javaSchool.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sortierAlgo/sortierAlgo.iml" filepath="$PROJECT_DIR$/sortierAlgo/sortierAlgo.iml" />
     </modules>
   </component>
 </project>
