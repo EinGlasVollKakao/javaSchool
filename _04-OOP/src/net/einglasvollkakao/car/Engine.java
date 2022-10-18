@@ -1,3 +1,5 @@
+package net.einglasvollkakao.car;
+
 public class Engine {
     private int horsePower;
     public enum TYPE {DIESEL, GAS}
