@@ -25,7 +25,11 @@ public class Main {
         car1.addMirrors(rearMirror);
         
         car1.getMirrors().get(0).toggleFold();
-        
+
+        Engine manuelsEngine = new Engine(100, Engine.TYPE.DIESEL);
+        Truck manuel = new Truck(manuelsEngine, "s324234", "rot", "Mercedes", 100, 10, 1, true);
+
+        System.out.println(manuel.getHasTrailer());
         
     }
 }
