@@ -6,11 +6,9 @@ public class GlowElement {
     private double powerConsumption;
     private boolean status = false;
     
-    public GlowElement(String name, String color, double powerConsumption, boolean status) {
+    public GlowElement(String name, String color) {
         this.name = name;
         this.color = color;
-        this.powerConsumption = powerConsumption;
-        this.status = status;
     }
     
     public void turnOn() {
