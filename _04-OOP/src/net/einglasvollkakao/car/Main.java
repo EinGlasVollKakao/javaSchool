@@ -30,6 +30,7 @@ public class Main {
         Truck manuel = new Truck(manuelsEngine, "s324234", "rot", "Mercedes", 100, 10, 1, true);
 
         System.out.println(manuel.getHasTrailer());
+        manuel.drive(12);
         
     }
 }

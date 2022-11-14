@@ -15,4 +15,10 @@ public class Truck extends Car {
     public void setHasTrailer(boolean hasTrailer) {
         this.hasTrailer = hasTrailer;
     }
+
+    @Override
+    public void drive(int speed) {
+        System.out.println("Ich bin ein krasser Truck – Brumm Brumm");
+        super.drive(speed);
+    }
 }
